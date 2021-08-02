@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417641235176",
+    "project_id": "flickerapp3-85303",
+    "storage_bucket": "flickerapp3-85303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417641235176:android:dbb1dc012c9698100f7f5d",
+        "android_client_info": {
+          "package_name": "com.joseph.modcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417641235176-jr0ulqkv4d466er35tvfsq49vknvehr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOnm3LUm0do3nqQ3SxerxJ2arJsN_acI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417641235176-jr0ulqkv4d466er35tvfsq49vknvehr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
